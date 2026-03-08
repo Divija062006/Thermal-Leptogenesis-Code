@@ -2,7 +2,9 @@
 
 This project implements a numerical solver for the coupled Boltzmann equations describing thermal leptogenesis in the early Universe. 
 The code evolves the abundance of a heavy right-handed neutrino 𝑁1 and the resulting 𝐵−𝐿 asymmetry as functions of the temperature variable
+
 𝑧 = 𝑀1/𝑇
+
 CP-violating decays of the heavy neutrino generate a lepton asymmetry which partially survives washout processes.
 This surviving 𝐵−𝐿 asymmetry is converted into a baryon asymmetry through electroweak sphaleron processes, allowing comparison with the observed baryon asymmetry of the Universe.
 
